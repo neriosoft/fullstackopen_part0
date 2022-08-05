@@ -1,0 +1,8 @@
+title new note
+
+browser->server: authentication request
+note right of server: server thinks about it
+server->browser: authentication response
+browser->server: creating new note over 
+note right of server: server thinks about it
+server->browser: sending newly created note
